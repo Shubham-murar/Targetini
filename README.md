@@ -305,10 +305,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-### **Ready to transform how you find professionals?**
-
-[🚀 Get Started](#quick-start) • 
-
 **Made with ❤️ for recruiters, founders, and network builders**
 
 </div>
