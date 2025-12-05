@@ -10,7 +10,7 @@
 
 **Transform LinkedIn networking from overwhelming chaos into targeted precision with AI Agents**
 
-[📖 Documentation](#) • [💡 Features](#-game-changing-features) • [🤖 AI Agents](#-ai-agents-workflow) • [🛠️ Tech Stack](#-tech-stack)
+[💡 Features](#-game-changing-features) • [🤖 AI Agents](#-ai-agents-workflow) 
 
 </div>
 
