@@ -307,7 +307,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### **Ready to transform how you find professionals?**
 
-[🚀 Get Started](#quick-start) • [📚 Documentation](#) • [💬 Community](#) • [🐛 Report Issues](https://github.com/yourusername/targetini/issues)
+[🚀 Get Started](#quick-start) • 
 
 **Made with ❤️ for recruiters, founders, and network builders**
 
