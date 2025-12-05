@@ -1,0 +1,375 @@
+# Targetini - AI Recruiting Agents
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Your specific LinkedIn data file
+sampleconnects.csv
+/sampleconnects.csv
+
+# Data directory patterns
+data/raw/
+data/processed/
+data/temp/
+uploads/
+
+# Specific CSV files in root directory
+*.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Qdrant
+qdrant_storage/
+*.qdrant
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Data files - generic
+*.json
+*.xlsx
+*.xls
+
+# Node.js (if you have frontend dependencies)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Testing
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# C extensions
+*.so
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Backup files
+*~
+*.bak
+*.backup
+*.orig
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.venv
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# PyCharm
+*.iws
+
+# VS Code
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Temp files
+temp/
+tmp/
+.temp/
+.tmp/
+
+# Database files (except for testing)
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache files
+.cache/
+
+# Application specific
+instance/
+.webassets-cache
+.scrapy
+
+# Flask
+*.flaskenv
+
+# Security
+secret_key.txt
+secrets/
+keys/
+*.pem
+*.key
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+
+# SQL dump files
+*.sql
+
+# Notebook checkpoints
+.checkpoints/
+
+# MLFlow
+mlruns/
+
+# Weights & Biases
+wandb/
+
+# DVC
+.dvc/
+.dvcignore
+
+# Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Kubernetes
+*.kubeconfig
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Packer
+packer_cache/
+
+# Ansible
+*.retry
+
+# Vagrant
+.vagrant/
+
+# PDFs
+*.pdf
+
+# Images (except logos)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# Media files
+*.mp4
+*.mp3
+*.wav
+*.avi
+
+# Documentation
+docs/_build/
+docs/_static/
+docs/_templates/
+docs/source/_build/
+
+# Sphinx
+docs/build/
+docs/source/generated/
+
+# Mkdocs
+site/
+
+# Pydoc
+docs/_build/
+
+# Auto-generated documentation
+docs/api/
+
+# Package manager specific
+poetry.lock
+requirements*.txt
+
+# Development tools
+.pre-commit-config.yaml
+
+# Output directory for built distributions
+dist/
+build/
+target/
+
+# Python profiling
+*.prof
+*.pstats
+
+# Nox
+.nox/
+
+# PyInstaller
+*.spec
+
+# Pyre
+.pyre/
+
+# PDM
+.pdm.toml
+
+# uv
+.uv/
+
+# Ruff
+.ruff_cache/
+
+# Codespaces
+.devcontainer/
+.codespaces/
+
+# GitHub
+.github/workflows/
+
+# Azure
+.azure/
+
+# Google Cloud
+.gcloud/
+
+# AWS
+.aws/
+
+# Heroku
+.slugignore
+
+# Netlify
+.netlify/
+
+# Vercel
+.vercel/
+
+# Railway
+.railway/
+
+# Fly.io
+.fly/
+
+# Render
+.render.yaml
+
+# Secrets scanning
+.gitleaks.toml
+
