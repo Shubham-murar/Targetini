@@ -329,17 +329,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### **Star History**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/targetini&type=Date)](https://star-history.com/#yourusername/targetini&Date)
-
----
-
-**Connect with us:**
-- 🌐 [Website](#)
+**Connect with me:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/shubham-murar/)
-- 🐦 [Twitter](#)
-- 📧 [Email](mailto:hello@targetini.com)
+- 📧 [Email](mailto:shubhammurar3322@gmail.com)
 
 ---
 
