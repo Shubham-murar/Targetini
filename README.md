@@ -299,7 +299,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **LangChain/LangGraph** team for amazing AI frameworks
 - **Google Gemini** for powerful LLM capabilities
 - **Qdrant** for scalable vector search
-- **Shubham Murar** for building this vision
 
 ---
 
